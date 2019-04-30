@@ -1,2 +1,6 @@
 # sectionWeek6
-adding some stuff
+
+hi   
+David
+testing 123
+
